@@ -4,6 +4,7 @@ Sergi Caelles (scaelles@vision.ee.ethz.ch)
 This file is part of the OSVOS paper presented in:
 	CVPR 2017
 
+Divyam Jain (divyamvswild@gmail.com)
 Daniel Syles Immanuel (xmandsi@gmail.com)
 This file is a part of the OSVOS Paper presented in:
 	Bennett University Deep Learning Internship 2019.
